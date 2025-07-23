@@ -4,7 +4,7 @@ This project investigates the mathematical limitations of cubic spline extrapola
 ## Summary
 - Topic: Extrapolation limitations of cubic splines due to boundary conditions
 - Methods: Implemented natural cubic and quadratic spline interpolation on synthetic data
-- Data: Noisy samples from \(x^2 + \mathcal{N}(0.5,1)\) and \(3x^3 - 2x^2 + x\)
+- Data: Noisy samples from x² + N(0.5, 1) and 3x³ − 2x² + x
 - Key Findings: Both spline types behave well within data bounds but diverge significantly when extrapolated. Natural splines flatten at boundaries due to second-derivative constraints; quadratic splines lack the flexibility to match curvature outside range.
 
 ## Tools & Packages
