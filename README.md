@@ -20,7 +20,7 @@ This project investigates the mathematical limitations of cubic spline extrapola
 - `README.md`: Project overview and background
 
 ## View Project Deliverables
-- [Live HTML Report](https://sath-parimi.github.io/cubic-spline-extrapolation/spline_extrapolation.html)
+- [Full analysis report (HTML)](https://sath-parimi.github.io/cubic-spline-extrapolation/spline_extrapolation.html): Python notebook showing all code, spline constructions, extrapolation comparisons, and visualizations
 
 ## Collaborators
 This project was completed collaboratively by UC Santa Barbara Students:
